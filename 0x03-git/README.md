@@ -1,1 +1,1 @@
- Annyonghaseyo is hello in korean
+Hello friends
