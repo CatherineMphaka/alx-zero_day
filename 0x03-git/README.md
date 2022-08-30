@@ -1,1 +1,1 @@
- HELLO
+ Annyonghaseyo is hello in korean
